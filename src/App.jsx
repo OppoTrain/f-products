@@ -1,14 +1,17 @@
-import './App.css'
+import React from 'react';
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Slider from './components/slider/Slider';
+import NavBar from './components/navbar/NavBar';
 
 function App() {
 
   return (
-    <div className="App">
-    <Slider />
-  </div>
-  )
+  
+      <div  id="root">
+      <NavBar/>
+      </div>
+   
+  );
 }
 
-export default App
+export default App;
