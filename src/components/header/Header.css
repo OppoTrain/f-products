@@ -1,0 +1,32 @@
+/* Header styling */
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Icon styling */
+  .icon {
+    font-size: 24px;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  /* Spacer to push right elements to the end */
+  .spacer {
+    flex: 1;
+  }
+  
+  /* Product button styling */
+  .button {
+    margin-right: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

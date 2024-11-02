@@ -1,0 +1,23 @@
+.carousel-caption {
+    position: absolute;
+    top: 30%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: #1c5792; 
+    text-align: center;
+    font-size: 35px; 
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7); 
+    bottom: 20%; 
+    text-transform: uppercase;
+    width:700px;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+   
+}
+.carousel-item img {
+    object-fit: cover; 
+}
+.carousel-item h3{
+    margin-top: 20px;
+    font-size: 40px;
+}
