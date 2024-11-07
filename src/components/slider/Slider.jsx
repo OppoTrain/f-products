@@ -2,7 +2,6 @@ import React from 'react';
 import bella1 from '../../assets/hero2 .png'
 import bella2 from '../../assets/hero4.jpg'
 import './Slider.css';
-import Product from '../product/Product';
 
 export default function Slider() {
   return (
@@ -22,10 +21,8 @@ export default function Slider() {
 
         </div>
       </div>
-
-      <div className="product-section">
-        <Product />
-      </div>
+    
+    
     </>
   );
 }
