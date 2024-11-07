@@ -1,0 +1,58 @@
+{
+  "slider": {
+    "caption1": "Du kannst jeden Tag du selbst sein",
+    "caption2": "Für jede von uns nur Bella"
+  },
+  "product": "Produkte",
+
+  "footer": {
+    "ourBrands": "UNSERE MARKEN",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO basierend",
+      "Bella Kräuter",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella für Teens",
+      "Bella Panty"
+    ],
+    "ourProducts": "UNSERE PRODUKTE",
+    "productsList": [
+      "Wiederverwendbare Produkte",
+      "bella BiO basierte Binden",
+      "bella BiO basierte Slipeinlagen",
+      "Bella für Mütter",
+      "Klassische Damenbinden",
+      "Ultradünne Damenbinden",
+      "Damenbinden mit Kräuterextrakten",
+      "Damenbinden für Jugendliche",
+      "Tampons"
+    ],
+    "moreProducts": "WEITERE PRODUKTE",
+    "moreProductsList": [
+      "Ultradünne Slipeinlagen",
+      "Slipeinlagen mit Kräuterextrakten",
+      "Slipeinlagen für Jugendliche",
+      "Slipeinlagen aus Bio-Baumwolle",
+      "Inkontinenzeinlagen",
+      "Schutzhöschen",
+      "Feuchttücher",
+      "Baumwollprodukte",
+      "Papierprodukte"
+    ],
+    "tools": "WERKZEUGE",
+    "toolsList": ["Menstruationsrechner", "Eisprungrechner", "Tipps"],
+    "aboutUs": "ÜBER UNS",
+    "aboutUsList": [
+      "Kontakt",
+      "Informationen zu personenbezogenen Daten",
+      "Rechtlicher Hinweis",
+      "Cookie-Richtlinie",
+      "Warum Bella?"
+    ],
+    "cookieMessage": "Unsere Website verwendet sogenannte 'Cookies', um den Service zu verbessern und Besucherstatistiken zu erfassen. Durch die Nutzung der Website stimmen Sie der",
+    "cookiePolicy": "Cookie-Richtlinie zu"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slider": {
+    "caption1": "Môžeš byť sám sebou každý deň",
+    "caption2": "Pre každú z nás len Bella"
+  },
+  "product": "Produkty",
+
+  "footer": {
+    "ourBrands": "NAŠE ZNAČKY",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO na báze",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella pre dospievajúcich",
+      "Bella Panty"
+    ],
+    "ourProducts": "NAŠE PRODUKTY",
+    "productsList": [
+      "Opakovane použiteľné produkty",
+      "bella BiO na báze vložky",
+      "bella BiO na báze slipové vložky",
+      "Bella pre mamičky",
+      "Klasické hygienické vložky",
+      "Ultra-tenké hygienické vložky",
+      "Hygienické vložky s bylinnými extraktami",
+      "Hygienické vložky pre dospievajúcich",
+      "Tampony"
+    ],
+    "moreProducts": "ĎALŠIE PRODUKTY",
+    "moreProductsList": [
+      "Ultra-tenké slipové vložky",
+      "Slipové vložky s bylinnými extraktami",
+      "Slipové vložky pre dospievajúcich",
+      "Slipové vložky z organickej bavlny",
+      "Ovládanie močového mechúra vložky",
+      "Kontrolné nohavičky",
+      "Vlhčené utierky",
+      "Bavlnené produkty",
+      "Papierové produkty"
+    ],
+    "tools": "NÁSTROJE",
+    "toolsList": [
+      "Kalkulačka menštruačného cyklu",
+      "Kalkulačka ovulácie",
+      "Tipy"
+    ],
+    "aboutUs": "O NÁS",
+    "aboutUsList": [
+      "Kontakt",
+      "Informácie o osobných údajoch",
+      "Právne upozornenie",
+      "Politika súborov cookie",
+      "Prečo Bella?"
+    ],
+    "cookieMessage": "Naša stránka používa takzvané súbory 'cookie', aby zlepšila funkčnosť služby a zhromažďovala štatistiky návštevníkov. Používaním tejto služby súhlasíte s",
+    "cookiePolicy": "politikou súborov cookie"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slider": {
+    "caption1": "Możesz być sobą każdego dnia",
+    "caption2": "Dla każdej z nas tylko Bella"
+  },
+  "product": "Produkty",
+
+  "footer": {
+    "ourBrands": "NASZE MARKI",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO based",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella for Teens",
+      "Bella Panty"
+    ],
+    "ourProducts": "NASZE PRODUKTY",
+    "productsList": [
+      "Produkty wielokrotnego użytku",
+      "bella BiO based podpaski",
+      "bella BiO based wkładki",
+      "Bella dla mam",
+      "Klasyczne podpaski higieniczne",
+      "Ultra cienkie podpaski higieniczne",
+      "Podpaski higieniczne z ekstraktami ziołowymi",
+      "Podpaski higieniczne dla nastolatków",
+      "Tampony"
+    ],
+    "moreProducts": "WIĘCEJ PRODUKTÓW",
+    "moreProductsList": [
+      "Ultra cienkie wkładki",
+      "Wkładki z ekstraktami ziołowymi",
+      "Wkładki dla nastolatków",
+      "Wkładki z organicznej bawełny",
+      "Podpaski na nietrzymanie moczu",
+      "Majtki kontrolujące",
+      "Chusteczki nawilżane",
+      "Produkty bawełniane",
+      "Produkty papierowe"
+    ],
+    "tools": "NARZĘDZIA",
+    "toolsList": ["Kalkulator menstruacji", "Kalkulator owulacji", "Porady"],
+    "aboutUs": "O NAS",
+    "aboutUsList": [
+      "Kontakt",
+      "Informacje o danych osobowych",
+      "Zastrzeżenie prawne",
+      "Polityka plików cookies",
+      "Dlaczego Bella?"
+    ],
+    "cookieMessage": "Nasza strona internetowa używa tzw. plików 'cookies' w celu poprawy użyteczności usługi oraz zbierania statystyk odwiedzin. Korzystając z usługi, wyrażasz zgodę na",
+    "cookiePolicy": "politykę cookies"
+  }
+}
