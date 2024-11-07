@@ -1,0 +1,62 @@
+{
+  "slider": {
+    "caption1": "Poți fi tu însuți în fiecare zi",
+    "caption2": "Pentru fiecare dintre noi doar Bella"
+  },
+  "product": "Produse",
+
+  "footer": {
+    "ourBrands": "MARCILE NOASTRE",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO pe bază de",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella pentru adolescenți",
+      "Bella Panty"
+    ],
+    "ourProducts": "PRODUSELE NOASTRE",
+    "productsList": [
+      "Produse reutilizabile",
+      "bella BiO pe bază de absorbante",
+      "bella BiO pe bază de protecții",
+      "Bella pentru mame",
+      "Absorbante clasice",
+      "Absorbante ultra-subțiri",
+      "Absorbante cu extracte din plante",
+      "Absorbante pentru adolescenți",
+      "Tampoane"
+    ],
+    "moreProducts": "MAI MULTE PRODUSE",
+    "moreProductsList": [
+      "Protecții ultra-subțiri",
+      "Protecții cu extracte din plante",
+      "Protecții pentru adolescenți",
+      "Protecții din bumbac organic",
+      "Absorbante pentru controlul vezicii",
+      "Pantaloni de control",
+      "Șervețele umede",
+      "Produse din bumbac",
+      "Produse din hârtie"
+    ],
+    "tools": "UNELTE",
+    "toolsList": [
+      "Calculator de ciclu menstrual",
+      "Calculator de ovulație",
+      "Sfaturi"
+    ],
+    "aboutUs": "DESPRE NOI",
+    "aboutUsList": [
+      "Contact",
+      "Informații despre datele personale",
+      "Declinare de responsabilitate",
+      "Politica de cookies",
+      "De ce Bella?"
+    ],
+    "cookieMessage": "Site-ul nostru folosește fișiere de tip 'cookie' pentru a îmbunătăți utilitatea serviciului și pentru a colecta statistici despre vizitatori. Utilizând serviciul, sunteți de acord cu",
+    "cookiePolicy": "politica de cookies"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slider": {
+    "caption1": "Tu gali būti savimi kiekvieną dieną",
+    "caption2": "Kiekvienai iš mūsų tik Bella"
+  },
+  "product": "Produktai",
+
+  "footer": {
+    "ourBrands": "MŪSŲ PREKĖS ŽENKLAI",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO pagrindu",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella for Teens",
+      "Bella Panty"
+    ],
+    "ourProducts": "MŪSŲ PRODUKTAI",
+    "productsList": [
+      "Pakartotinai naudojami produktai",
+      "bella BiO pagrindu pagaminti įklotai",
+      "bella BiO pagrindu pagaminti apsauginiai įklotai",
+      "Bella mamoms",
+      "Klasikiniai higieniniai įklotai",
+      "Ultratenki higieniniai įklotai",
+      "Higieniniai įklotai su vaistažolių ekstraktais",
+      "Higieniniai įklotai paaugliams",
+      "Tamponai"
+    ],
+    "moreProducts": "DAUGIAU PRODUKTŲ",
+    "moreProductsList": [
+      "Ultratenki apsauginiai įklotai",
+      "Apsauginiai įklotai su vaistažolių ekstraktais",
+      "Apsauginiai įklotai paaugliams",
+      "Apsauginiai įklotai iš organinės medvilnės",
+      "Šlapimo pūslės kontrolės įklotai",
+      "Kontrolinės kelnaitės",
+      "Drėgnos servetėlės",
+      "Medvilniniai produktai",
+      "Popieriniai produktai"
+    ],
+    "tools": "ĮRANKIAI",
+    "toolsList": [
+      "Menstruacijų skaičiuoklė",
+      "Ovuliacijos skaičiuoklė",
+      "Patarimai"
+    ],
+    "aboutUs": "APIE MUS",
+    "aboutUsList": [
+      "Kontaktai",
+      "Asmens duomenų informacija",
+      "Teisinis pranešimas",
+      "Slapukų politika",
+      "Kodėl Bella?"
+    ],
+    "cookieMessage": "Mūsų svetainė naudoja vadinamuosius 'slapukus', kad pagerintų paslaugos naudingumą ir sudarytų lankytojų statistiką. Naudodamiesi paslauga, sutinkate su",
+    "cookiePolicy": "slapukų politika"
+  }
+}
