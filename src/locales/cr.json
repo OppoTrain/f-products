@@ -1,0 +1,58 @@
+{
+  "slider": {
+    "caption1": "Můžeš být sám sebou každý den",
+    "caption2": "Pro každou z nás jen Bella"
+  },
+  "product": "Produkty",
+
+  "footer": {
+    "ourBrands": "NAŠE ZNAČKY",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO založené",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella pro teenagery",
+      "Bella Panty"
+    ],
+    "ourProducts": "NAŠE PRODUKTY",
+    "productsList": [
+      "Opakovaně použitelné produkty",
+      "bella BiO základní vložky",
+      "bella BiO základní intimní vložky",
+      "Bella pro maminky",
+      "Klasické hygienické vložky",
+      "Ultra tenké hygienické vložky",
+      "Hygienické vložky s bylinnými extrakty",
+      "Hygienické vložky pro teenagery",
+      "Tampony"
+    ],
+    "moreProducts": "DALŠÍ PRODUKTY",
+    "moreProductsList": [
+      "Ultra tenké intimní vložky",
+      "Intimní vložky s bylinnými extrakty",
+      "Intimní vložky pro teenagery",
+      "Intimní vložky z organické bavlny",
+      "Vložky pro kontrolu močového měchýře",
+      "Kontrolní kalhotky",
+      "Vlhčené ubrousky",
+      "Bavlněné produkty",
+      "Papírové produkty"
+    ],
+    "tools": "NÁSTROJE",
+    "toolsList": ["Kalkulačka menstruace", "Kalkulačka ovulace", "Tipy"],
+    "aboutUs": "O NÁS",
+    "aboutUsList": [
+      "Kontakt",
+      "Informace o osobních údajích",
+      "Právní upozornění",
+      "Cookies politika",
+      "Proč Bella?"
+    ],
+    "cookieMessage": "Naše webová stránka používá takzvané soubory 'cookies' k vylepšení služby a shromažďování statistik návštěvníků. Používáním služby souhlasíte s",
+    "cookiePolicy": "politikou cookies"
+  }
+}

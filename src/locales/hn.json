@@ -1,0 +1,58 @@
+{
+  "slider": {
+    "caption1": "Lehetsz önmagad minden nap",
+    "caption2": "Minden egyes számunkra csak Bella"
+  },
+  "product": "Termékek",
+
+  "footer": {
+    "ourBrands": "MÁRKÁINK",
+    "brandsList": [
+      "Bella Perfecta Ultra",
+      "Bella Perfecta Pure",
+      "Bella BiO alapú",
+      "Bella Herbs",
+      "Bella Ideale",
+      "Bella Panty Intima",
+      "Bella Medica",
+      "Bella a tiniknek",
+      "Bella Panty"
+    ],
+    "ourProducts": "TERMÉKEINK",
+    "productsList": [
+      "Újrahasználható termékek",
+      "bella BiO alapú betétek",
+      "bella BiO alapú tisztasági betétek",
+      "Bella anyukáknak",
+      "Klasszikus egészségügyi betétek",
+      "Ultravékony egészségügyi betétek",
+      "Gyógynövényes egészségügyi betétek",
+      "Egészségügyi betétek tinédzsereknek",
+      "Tamponok"
+    ],
+    "moreProducts": "TOVÁBBI TERMÉKEK",
+    "moreProductsList": [
+      "Ultravékony tisztasági betétek",
+      "Gyógynövényes tisztasági betétek",
+      "Tini tisztasági betétek",
+      "Organikus pamut tisztasági betétek",
+      "Inkontinencia betétek",
+      "Kontroll nadrágok",
+      "Nedves törlőkendők",
+      "Pamut termékek",
+      "Papír termékek"
+    ],
+    "tools": "ESZKÖZÖK",
+    "toolsList": ["Menstruációs kalkulátor", "Ovulációs kalkulátor", "Tippek"],
+    "aboutUs": "RÓLUNK",
+    "aboutUsList": [
+      "Kapcsolat",
+      "Személyes adatkezelési információk",
+      "Jogi nyilatkozat",
+      "Cookie szabályzat",
+      "Miért Bella?"
+    ],
+    "cookieMessage": "Weboldalunk a szolgáltatás hasznosságának javítása és a látogatói statisztikák összegyűjtése érdekében úgynevezett 'cookie' fájlokat használ. A szolgáltatás használatával elfogadja a",
+    "cookiePolicy": "cookie szabályzatot"
+  }
+}
